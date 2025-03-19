@@ -14,4 +14,4 @@ El sistema permitirá organizar los turnos de manera eficiente, evitando pérdid
 ## 📂 Anexos  
 Para más detalles, consulta la documentación del proyecto en el siguiente enlace:  
 
-
+➡️ [Anexos](anexos.md)
