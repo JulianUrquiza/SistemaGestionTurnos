@@ -137,5 +137,10 @@ Se describen cinco casos de uso esenciales del sistema:
 - **Precondiciones:**  
   - El paciente debe tener un turno asignado.  
 - **Postcondiciones:**  
-  - El paciente recibe la notificación en su dispositivo.  
+  - El paciente recibe la notificación en su dispositivo.
+
+---
+
+### 📌 **Boceto**
+
  
