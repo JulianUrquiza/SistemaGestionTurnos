@@ -45,5 +45,22 @@ En un **cajero automático** 🏧 solo interactúas con la pantalla y los botone
 La Programación Orientada a Objetos permite desarrollar sistemas más organizados, reutilizables y fáciles de mantener. A lo largo del proyecto, aplicaremos estos principios para diseñar un sistema de gestión de turnos médicos.  
 
 ---
+ 
+🔹 2. Requisitos iniciales del sistema
+Debes describir al menos cinco requisitos funcionales. Algunos ejemplos:
+✅ Un usuario puede registrar pacientes con sus datos personales.
+✅ Se pueden asignar turnos a pacientes según la disponibilidad de los médicos.
+✅ Los médicos pueden ver su agenda de turnos.
+✅ Se enviarán notificaciones cuando un turno sea confirmado, cancelado o modificado.
+✅ Solo el personal autorizado podrá acceder a la información de contacto.
 
-🔹 **Siguientes pasos:** Ahora debes definir los **requisitos iniciales del sistema** en este mismo archivo. ¿Necesitas ayuda con eso? 🚀  
+🔹 3. Casos de uso
+Debes escribir cinco casos de uso en el siguiente formato:
+
+Nombre del caso de uso (Ejemplo: "Asignar un turno")
+Actor(es) involucrado(s) (Ejemplo: "Recepcionista, Paciente, Médico")
+Descripción breve (Ejemplo: "El recepcionista asigna un turno a un paciente según la disponibilidad del médico").
+Flujo principal de eventos (Pasos numerados de cómo sucede el caso).
+Precondiciones (Ejemplo: "El paciente debe estar registrado en el sistema").
+Postcondiciones (Ejemplo: "El turno queda registrado y se envía una notificación al paciente y al médico").
+
