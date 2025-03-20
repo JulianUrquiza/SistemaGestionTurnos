@@ -143,6 +143,7 @@ Se describen cinco casos de uso esenciales del sistema:
 
 ### 📌 **Boceto**
 
+
 ![Mi Imagen](Boceto.png)
 
  
