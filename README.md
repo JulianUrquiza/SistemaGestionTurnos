@@ -1,7 +1,7 @@
 # SistemaGestionTurnos 🏥  
 
-#Julian Emilio Urquiza
-#Diseño Orientado a Objetos - Tecnicatura en programacion de sistemas
+# Julian Emilio Urquiza
+### Diseño Orientado a Objetos - Tecnicatura en programacion de sistemas
 #Matias Alejandro Velasquez
 #2025
 
