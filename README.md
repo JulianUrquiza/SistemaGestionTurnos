@@ -2,8 +2,8 @@
 
 # Julian Emilio Urquiza
 ### Diseño Orientado a Objetos - Tecnicatura en programacion de sistemas
-#Matias Alejandro Velasquez
-#2025
+* Matias Alejandro Velasquez *
+*2025
 
 ## 📌 Descripción  
 Este proyecto tiene como objetivo digitalizar la gestión de turnos médicos en un pequeño centro de salud.  
