@@ -16,7 +16,8 @@ El sistema permitirá organizar los turnos de manera eficiente, evitando pérdid
 ✅ Protección de la información de contacto.  
 ✅ Historial de turnos de cada paciente y médico.  
 
-## 📂 Anexos  
-Para más detalles, consulta la documentación del proyecto en el siguiente enlace:  
+## Diagramas y Diseños
 
-➡️ [Anexos](anexos.md)
+* [Anexos](anexos.md)
+* [Diagramas UML](diagrmasUML.md)
+* [Herramientas Agile](herramientas_agile.md)
