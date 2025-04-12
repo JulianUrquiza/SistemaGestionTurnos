@@ -1,5 +1,10 @@
 # SistemaGestionTurnos 🏥  
 
+Julian Emilio Urquiza
+Diseño Orientado a Objetos - Tecnicatura en programacion de sistemas
+Matias Alejandro Velasquez
+2025
+
 ## 📌 Descripción  
 Este proyecto tiene como objetivo digitalizar la gestión de turnos médicos en un pequeño centro de salud.  
 El sistema permitirá organizar los turnos de manera eficiente, evitando pérdidas de citas, duplicaciones y mejorando la comunicación con pacientes y médicos.  
