@@ -1,77 +1,77 @@
-# 📌 Introducción a la Programación Orientada a Objetos (POO)  
+# Introducción a la Programación Orientada a Objetos (POO)  
 
-## 📖 ¿Qué es la Programación Orientada a Objetos?  
+## ¿Qué es la Programación Orientada a Objetos?  
 La **Programación Orientada a Objetos (POO)** es un paradigma de programación basado en la creación y manipulación de "objetos". Un objeto representa una entidad del mundo real con características (**atributos**) y comportamientos (**métodos**).  
 
 Este enfoque facilita la reutilización de código, la organización del software y la escalabilidad de los proyectos.  
 
 ---
 
-## 🔹 Los Cuatro Fundamentos de POO  
+## Los Cuatro Fundamentos de POO  
 
-### 1️⃣ **Encapsulamiento**  
+### **Encapsulamiento**  
 El encapsulamiento permite ocultar los detalles internos de un objeto y exponer solo lo necesario.  
 
-📌 **Ejemplo del mundo real:**  
+**Ejemplo del mundo real:**  
 Un auto 🚗. Como conductor, solo interactúas con el volante y los pedales, pero no necesitas saber cómo funciona el motor internamente.  
 
 ---
 
-### 2️⃣ **Herencia**  
+### **Herencia**  
 La herencia permite que una clase reutilice atributos y métodos de otra clase, evitando la repetición de código.  
 
-📌 **Ejemplo del mundo real:**  
+ **Ejemplo del mundo real:**  
 Una **bicicleta eléctrica** 🚴‍♀️ hereda características de una **bicicleta normal**, pero añade nuevas funcionalidades como un motor eléctrico.  
 
 ---
 
-### 3️⃣ **Polimorfismo**  
+### **Polimorfismo**  
 El polimorfismo permite que una misma acción se comporte de diferentes maneras según el objeto que la ejecuta.  
 
-📌 **Ejemplo del mundo real:**  
+ **Ejemplo del mundo real:**  
 Un **teléfono inteligente** 📱 puede **reproducir música** 🎵 con una aplicación de Spotify o con YouTube. La acción es la misma ("reproducir música"), pero se ejecuta de diferentes maneras según la aplicación.  
 
 ---
 
-### 4️⃣ **Abstracción**  
+### **Abstracción**  
 La abstracción permite modelar solo las características esenciales de un objeto, ignorando los detalles innecesarios.  
 
-📌 **Ejemplo del mundo real:**  
+ **Ejemplo del mundo real:**  
 En un **cajero automático** 🏧 solo interactúas con la pantalla y los botones para retirar dinero, pero no ves cómo el sistema procesa tu transacción internamente.  
 
 ---
 
-## ✅ **Conclusión**  
+## **Conclusión**  
 La Programación Orientada a Objetos permite desarrollar sistemas más organizados, reutilizables y fáciles de mantener. A lo largo del proyecto, aplicaremos estos principios para diseñar un sistema de gestión de turnos médicos.  
 
 ---
 
-## 🔹 **2. Requisitos Iniciales del Sistema**  
+## **2. Requisitos Iniciales del Sistema**  
 
 A continuación, se presentan cinco requisitos funcionales del sistema de gestión de turnos médicos:  
 
-1️⃣ **Registro de pacientes y médicos:**  
+ **Registro de pacientes y médicos:**  
    - El sistema debe permitir registrar nuevos pacientes y profesionales de la salud.  
 
-2️⃣ **Asignación de turnos:**  
+ **Asignación de turnos:**  
    - Los turnos deben asignarse según la disponibilidad de cada médico.  
 
-3️⃣ **Agenda de turnos para médicos:**  
+ **Agenda de turnos para médicos:**  
    - Los médicos podrán consultar sus turnos asignados en una vista de calendario.  
 
-4️⃣ **Notificaciones automáticas:**  
+ **Notificaciones automáticas:**  
    - Se enviarán notificaciones por email o SMS cuando un turno sea confirmado, cancelado o modificado.  
 
-5️⃣ **Seguridad y privacidad:**  
+ **Seguridad y privacidad:**  
    - La información de contacto de pacientes y médicos solo debe ser accesible para personal autorizado.  
 
 ---
 
-## 🔹 **3. Casos de Uso**  
+## **3. Casos de Uso**  
 
 Se describen cinco casos de uso esenciales del sistema:  
 
-### 📌 **1. Registrar un nuevo paciente**  
+### **1. Registrar un nuevo paciente**  
 - **Actor(es):** Recepcionista  
 - **Descripción:** El recepcionista ingresa los datos de un nuevo paciente en el sistema.  
 - **Flujo principal:**  
@@ -85,7 +85,7 @@ Se describen cinco casos de uso esenciales del sistema:
 
 ---
 
-### 📌 **2. Asignar un turno**  
+### **2. Asignar un turno**  
 - **Actor(es):** Recepcionista  
 - **Descripción:** Se asigna un turno a un paciente verificando la disponibilidad del médico.  
 - **Flujo principal:**  
@@ -99,7 +99,7 @@ Se describen cinco casos de uso esenciales del sistema:
 
 ---
 
-### 📌 **3. Cancelar un turno**  
+### **3. Cancelar un turno**  
 - **Actor(es):** Recepcionista, Paciente  
 - **Descripción:** Un paciente puede solicitar la cancelación de un turno, o el recepcionista puede cancelarlo en caso de emergencia.  
 - **Flujo principal:**  
@@ -113,7 +113,7 @@ Se describen cinco casos de uso esenciales del sistema:
 
 ---
 
-### 📌 **4. Consultar turnos asignados**  
+### **4. Consultar turnos asignados**  
 - **Actor(es):** Médico  
 - **Descripción:** Un médico puede ver la lista de turnos asignados en un calendario.  
 - **Flujo principal:**  
@@ -127,7 +127,7 @@ Se describen cinco casos de uso esenciales del sistema:
 
 ---
 
-### 📌 **5. Notificación de turno próximo**  
+### **5. Notificación de turno próximo**  
 - **Actor(es):** Sistema  
 - **Descripción:** El sistema envía una notificación recordando el turno próximo al paciente.  
 - **Flujo principal:**  
