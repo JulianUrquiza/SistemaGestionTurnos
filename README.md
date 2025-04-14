@@ -12,7 +12,7 @@ El sistema permitirá organizar los turnos de manera eficiente, evitando pérdid
 ## Características principales  
 * Registro de pacientes y médicos.  
 * Asignación de turnos según la disponibilidad.  
-** Notificaciones automáticas por cambios en los turnos.  
+* Notificaciones automáticas por cambios en los turnos.  
 * Protección de la información de contacto.  
 * Historial de turnos de cada paciente y médico.  
 
