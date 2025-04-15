@@ -4,4 +4,4 @@
 * Caso de uso 2 - Asignar un turno
 * Caso de uso 3 - Cancelar un turno
 * Caso de uso 4 - Consultar turnos Asignados
-* [Caso de uso 5 - Notificacion de turno proximo](Notificar turnos.pdf)
+* [Caso de uso 5 - Notificacion de turno proximo](https://github.com/JulianUrquiza/SistemaGestionTurnos/blob/main/Notificar%20turnos.pdf)
